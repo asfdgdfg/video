@@ -1,5 +1,5 @@
 #!/bin/bash
-read tips
+#read tips
 git add *
-git commit -m $tips
+git commit -m 1
 git push origin master
